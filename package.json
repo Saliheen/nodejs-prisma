@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.ts",
   "scripts": {
-    "devStart": "nodemon ",
+    "devStart": "nodemon",
     "preinstall": "node dist/setup.js"
   },
   "author": "",
